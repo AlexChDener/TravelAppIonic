@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "travel-app-ionic-63061": {
+      "hosting": {
+        "app": [
+          "travel-app-ionic-63061"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "travel-app-ionic-63061"
+  }
+}
